@@ -1,0 +1,7 @@
+C:\Users\cfolm\source\repos\Cohort-Analysis\Cohort-Analysis\bin\Debug\Cohort-Analysis.exe.config
+C:\Users\cfolm\source\repos\Cohort-Analysis\Cohort-Analysis\bin\Debug\Cohort-Analysis.exe
+C:\Users\cfolm\source\repos\Cohort-Analysis\Cohort-Analysis\bin\Debug\Cohort-Analysis.pdb
+C:\Users\cfolm\source\repos\Cohort-Analysis\Cohort-Analysis\obj\Debug\Cohort-Analysis.csprojResolveAssemblyReference.cache
+C:\Users\cfolm\source\repos\Cohort-Analysis\Cohort-Analysis\obj\Debug\Cohort-Analysis.csproj.CoreCompileInputs.cache
+C:\Users\cfolm\source\repos\Cohort-Analysis\Cohort-Analysis\obj\Debug\Cohort-Analysis.exe
+C:\Users\cfolm\source\repos\Cohort-Analysis\Cohort-Analysis\obj\Debug\Cohort-Analysis.pdb
